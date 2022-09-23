@@ -41,7 +41,7 @@
           </tbody>
         </table>
   </div>
-    <a href="/inputmasuk" class="btn btn-dark my-3">>Masukan Semua Data</a>
+    <a href="/inputmasuk" class="btn btn-dark my-3">Masukan Semua Data</a>
   <br>
    <font><b>*Mohon untuk langsung klik masukkan semua data untuk memasukan ke dalam data barang masuk</b></font>
 </div>

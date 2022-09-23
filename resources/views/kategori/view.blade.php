@@ -13,9 +13,9 @@
       <table id="dataTable" class="table table-bordered" cellspacing="0">
           <thead>
             <tr>
-                  <th>No</th>
-                  <th>Kategori</th>
-                  <th>Opsi</th>
+                <th>No</th>
+                <th>Kategori</th>
+                <th>Opsi</th>
             </tr>
           </thead>
           <tbody>
