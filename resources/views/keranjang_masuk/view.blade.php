@@ -8,7 +8,7 @@
 </div>
 <div class="card-body">
   <div class="table-responsive">
-    <a href="/keranjang_masuk/form_input" class="btn btn-success">Tambah Data</a>
+    <a href="/keranjang_masuk/form_input" class="btn btn-success">+ Tambah</a>
       <br>
       <br>
       <table id="dataTable" class="table table-bordered" cellspacing="0">
@@ -41,9 +41,7 @@
           </tbody>
         </table>
   </div>
-  <div class="text-center">
-  <a href="/inputmasuk" class="btn btn-dark">Masukan Semua Data</a>
-  </div>
+    <a href="/inputmasuk" class="btn btn-dark my-3">>Masukan Semua Data</a>
   <br>
    <font><b>*Mohon untuk langsung klik masukkan semua data untuk memasukan ke dalam data barang masuk</b></font>
 </div>

@@ -20,7 +20,7 @@
             @enderror
         </div>
          
-        <button class="btn btn-success" data-toggle="modal" data-target="#tambah">Tambah Data</button>
+        <button class="btn btn-success" data-toggle="modal" data-target="#tambah">+ Tambah</button>
         <br>
         <br>
         <table id="dataTable" class="table table-bordered" cellspacing="0">
