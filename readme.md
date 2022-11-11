@@ -20,6 +20,7 @@ STEP by STEP
 - Ketik git clone https://github.com/devdewa/App-Peminjaman.git
 - Pindahkan directory ke App-Peminjaman atau ketik cd App-Peminjaman
 - Ketik composer update
+- Ketik php artisan key:generate
 - Buka Folder App-Peminjaman di dalam code editor / Visual Studio Code dan rename file .env.example menjadi .env
 - Open / Jalankan localhost/phpmyadmin di browser
 - Buat Database laravel_ipuls
