@@ -16,9 +16,16 @@ Persiapan
 - Sudah terinstall git bash
 
 STEP by STEP
-- Buka folder htdocs, klik kanan dan pilih Git Bash Here. Lalu ketik git clone https://github.com/devdewa/App-Peminjaman.git
-- Pindahkan directory ke App-Peminjaman atau cd App-Peminjaman
-- Ketik composer install
+- Buka folder htdocs, biasanya terletak di dalam folder xampp, kemdian klik kanan dan pilih Git Bash Here 
+- Lalu ketik git clone https://github.com/devdewa/App-Peminjaman.git
+- Pindahkan directory ke App-Peminjaman atau ketik cd App-Peminjaman
+- Ketik composer update
+- Buka Folder App-Peminjaman di dalam code editor / Visual Studio Code dan rename file .env.example menjadi .env
+- Open localhost/phpmyadmin 
+- Buat Database laravel_ipuls
+- Kemudian Import dan cari atau pilih file laravel_ipuls.sql di dalam folder App-Peminjaman
+- Ketik php artisan serve di dalam git bash
+- Buka browser dan jalankan http://127.0.0.1:8000
 
 ## About Laravel
 
