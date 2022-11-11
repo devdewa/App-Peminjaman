@@ -13,9 +13,10 @@ Persiapan
 - XAMPP atau software sejenisnya. Disarankan XAMPP
 - Visual Studio Code atau software sejenisnya
 - Sudah terinstall composer
+- Sudah terinstall git bash
 
 STEP by STEP
-- Buka terminal / cmd, arahkan / directory ke dalam folder htdocs. Lalu ketik git clone https://github.com/devdewa/App-Peminjaman.git
+- Buka folder htdocs, klik kanan dan pilih Git Bash Here. Lalu ketik git clone https://github.com/devdewa/App-Peminjaman.git
 - pindahkan directory ke App-Peminjaman atau cd App-Peminjaman
 - ketik composer install
 
