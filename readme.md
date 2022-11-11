@@ -17,8 +17,8 @@ Persiapan
 
 STEP by STEP
 - Buka folder htdocs, klik kanan dan pilih Git Bash Here. Lalu ketik git clone https://github.com/devdewa/App-Peminjaman.git
-- pindahkan directory ke App-Peminjaman atau cd App-Peminjaman
-- ketik composer install
+- Pindahkan directory ke App-Peminjaman atau cd App-Peminjaman
+- Ketik composer install
 
 ## About Laravel
 
