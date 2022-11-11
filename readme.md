@@ -12,8 +12,8 @@
 Persiapan
 - XAMPP atau software sejenisnya. Disarankan XAMPP
 - Visual Studio Code atau software sejenisnya
-- Sudah terinstall composer
-- Sudah terinstall git bash
+- Sudah terinstall composer https://getcomposer.org/
+- Sudah terinstall git bash https://git-scm.com/downloads
 
 STEP by STEP
 - Buka folder htdocs, biasanya terletak di dalam folder xampp, kemudian klik kanan dan pilih Git Bash Here 
