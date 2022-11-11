@@ -16,8 +16,8 @@ Persiapan
 - Sudah terinstall git bash
 
 STEP by STEP
-- Buka folder htdocs, biasanya terletak di dalam folder xampp, kemdian klik kanan dan pilih Git Bash Here 
-- Lalu ketik git clone https://github.com/devdewa/App-Peminjaman.git
+- Buka folder htdocs, biasanya terletak di dalam folder xampp, kemudian klik kanan dan pilih Git Bash Here 
+- Ketik git clone https://github.com/devdewa/App-Peminjaman.git
 - Pindahkan directory ke App-Peminjaman atau ketik cd App-Peminjaman
 - Ketik composer update
 - Buka Folder App-Peminjaman di dalam code editor / Visual Studio Code dan rename file .env.example menjadi .env
