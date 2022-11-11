@@ -16,7 +16,7 @@ Persiapan
 - Sudah terinstall git bash https://git-scm.com/downloads
 
 STEP by STEP
-- Buka folder App-Peminjaman, biasanya terletak di dalam folder htdocs, kemudian klik kanan dan pilih Git Bash Here 
+- Buka folder htdocs, biasanya terletak di dalam folder xampp, kemudian klik kanan dan pilih Git Bash Here 
 - Ketik git clone https://github.com/devdewa/App-Peminjaman.git
 - Pindahkan directory ke App-Peminjaman atau ketik cd App-Peminjaman
 - Ketik composer update
