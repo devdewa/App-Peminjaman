@@ -7,6 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Cara Install
+
+Persiapan
+- XAMPP atau software sejenisnya. Disarankan XAMPP
+- Visual Studio Code atau software sejenisnya
+- Sudah terinstall composer
+
+STEP by STEP
+> Buka terminal / cmd, arahkan / directory ke dalam folder htdocs. Lalu ketik git clone https://github.com/devdewa/App-Peminjaman.git
+> pindahkan directory ke App-Peminjaman atau cd App-Peminjaman
+> ketik composer install
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
