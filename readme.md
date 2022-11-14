@@ -17,14 +17,14 @@ Persiapan
 
 STEP by STEP
 - Buka folder htdocs, biasanya terletak di dalam folder xampp, kemudian klik kanan dan pilih Git Bash Here 
-- Ketik git clone https://github.com/devdewa/App-Peminjaman.git
+- Ketik <b>git clone https://github.com/devdewa/App-Peminjaman.git</b>
 - Pindahkan directory ke App-Peminjaman atau ketik cd App-Peminjaman
-- Ketik composer update
-- Ketik php artisan key:generate
-- Buka Folder App-Peminjaman di dalam code editor / Visual Studio Code dan rename file .env.example menjadi .env
-- Open atau Jalankan localhost/phpmyadmin di browser
-- Buat Database laravel_ipuls
-- Kemudian Import dan pilih file laravel_ipuls.sql di dalam folder App-Peminjaman
+- Ketik <b>composer update</b>
+- Ketik <b>php artisan key:generate</b>
+- Buka Folder <b>App-Peminjaman</b> di dalam code editor / Visual Studio Code dan rename file <b>.env.example</b> menjadi <b>.env</b>
+- Open atau Jalankan <b>localhost/phpmyadmin</b> di browser
+- Buat Database <b>laravel_ipuls</b>
+- Kemudian Import dan pilih file <b>laravel_ipuls.sql</b> di dalam folder <b>App-Peminjaman</b>
 - Ketik <b>php artisan serve</b> di dalam git bash
 - Buka browser dan jalankan http://127.0.0.1:8000
 
