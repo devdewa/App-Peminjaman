@@ -24,8 +24,8 @@ STEP by STEP
 - Buka Folder App-Peminjaman di dalam code editor / Visual Studio Code dan rename file .env.example menjadi .env
 - Open atau Jalankan localhost/phpmyadmin di browser
 - Buat Database laravel_ipuls
-- Kemudian Import dan cari atau pilih file laravel_ipuls.sql di dalam folder App-Peminjaman
-- Ketik php artisan serve di dalam git bash
+- Kemudian Import dan pilih file laravel_ipuls.sql di dalam folder App-Peminjaman
+- Ketik <b>php artisan serve</b> di dalam git bash
 - Buka browser dan jalankan http://127.0.0.1:8000
 
 ## About Laravel
