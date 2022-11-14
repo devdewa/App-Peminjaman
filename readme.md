@@ -22,7 +22,7 @@ STEP by STEP
 - Ketik composer update
 - Ketik php artisan key:generate
 - Buka Folder App-Peminjaman di dalam code editor / Visual Studio Code dan rename file .env.example menjadi .env
-- Open / Jalankan localhost/phpmyadmin di browser
+- Open atau Jalankan localhost/phpmyadmin di browser
 - Buat Database laravel_ipuls
 - Kemudian Import dan cari atau pilih file laravel_ipuls.sql di dalam folder App-Peminjaman
 - Ketik php artisan serve di dalam git bash
